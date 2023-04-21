@@ -1,9 +1,9 @@
 :root {
   /* ignore these, unless you wanna mess with them, then go for it. they may be removed at any time, though. */
-  --lightness-600-660: 0%;
-  --lightness-700-760: 0%;
-  --lightness-800-860: 0%;
-  --lightness-900: 0%;
+  --lightness-600-660: 10%;
+  --lightness-700-760: 15%;
+  --lightness-800-860: 20%;
+  --lightness-900: 25%;
   --primary-100: hsl(var(--primary-100-hsl)/1);
   --primary-100-hsl: 0 calc(var(--saturation-factor, 1)*0%) 97.6%;
   --primary-130: hsl(var(--primary-130-hsl)/1);
